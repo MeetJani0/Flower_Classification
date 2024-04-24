@@ -16,17 +16,20 @@ The dataset is organized into five sub-directories, each representing a flower c
 
 ## Usage Instructions
 1. **Clone Repository**: Clone this repository to your local machine.
+   ```
+   https://github.com/MeetJani0/Flower_Classification.git
+   ```
 
-2. **Install Dependencies**: Install the required Python libraries:
+3. **Install Dependencies**: Install the required Python libraries:
    ```
    pip install tensorflow numpy pandas matplotlib seaborn gradio
    ```
 
-3. **Download Dataset**: The dataset will be automatically downloaded when running the code from the provided Jupyter notebook.
+4. **Download Dataset**: The dataset will be automatically downloaded when running the code from the provided Jupyter notebook.
 
-4. **Run Jupyter Notebook**: Open and run the Jupyter notebook `Flower_Classification.ipynb` to train and evaluate the CNN model.
+5. **Run Jupyter Notebook**: Open and run the Jupyter notebook `Flower_Classification.ipynb` to train and evaluate the CNN model.
 
-5. **Interact with the Model**: After training the model, you can interact with it using the provided interface.
+6. **Interact with the Model**: After training the model, you can interact with it using the provided interface.
 
 ## Screenshots
 ### input
