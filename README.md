@@ -17,7 +17,7 @@ The dataset is organized into five sub-directories, each representing a flower c
 ## Usage Instructions
 1. **Clone Repository**: Clone this repository to your local machine.
    ```
-   https://github.com/MeetJani0/Flower_Classification.git
+   git clone https://github.com/MeetJani0/Flower_Classification.git
    ```
 
 3. **Install Dependencies**: Install the required Python libraries:
