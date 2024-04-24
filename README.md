@@ -15,10 +15,7 @@ The dataset is organized into five sub-directories, each representing a flower c
 - tulips
 
 ## Usage Instructions
-1. **Clone Repository**: Clone this repository to your local machine:
-   ```
-   git clone https://github.com/your-username/flower-image-classification.git
-   ```
+1. **Clone Repository**: Clone this repository to your local machine.
 
 2. **Install Dependencies**: Install the required Python libraries:
    ```
