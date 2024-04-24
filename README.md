@@ -28,6 +28,12 @@ The dataset is organized into five sub-directories, each representing a flower c
 
 5. **Interact with the Model**: After training the model, you can interact with it using the provided interface.
 
+## Screenshots
+### input
+![Screenshot 2024-04-25 002422](https://github.com/MeetJani0/Flower_Classification/assets/164643104/2a1d4a0e-fed9-46b9-a75d-04fd3f4a6f56)
+## output
+![Screenshot 2024-04-25 002436](https://github.com/MeetJani0/Flower_Classification/assets/164643104/705b4a01-52d2-4674-8711-a90dde97dcb1)
+
 ## Results
 The trained model achieves an accuracy of over 90%-95% on the validation dataset.
 
